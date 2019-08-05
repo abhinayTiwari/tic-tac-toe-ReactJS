@@ -1,0 +1,11 @@
+.celebration {
+  background-image: url("../img/celebration.gif");
+  background-repeat: no-repeat;
+}
+
+.tictactoe-container {
+  background: white;
+  height: 226px;
+  width: 182px;
+  padding: 4%;
+}
